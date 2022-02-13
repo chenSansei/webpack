@@ -1,0 +1,8 @@
+$ly_width: 100px;
+body{
+  p{
+    width:$ly_width;
+    height: $ly_width;
+    background-color: green;
+  }
+}
